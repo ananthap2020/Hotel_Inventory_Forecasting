@@ -1,0 +1,97 @@
+Bar Name,Alcohol Type,Brand Name,Predicted Daily Demand (ml),Safety Stock (ml),Reorder Point (ml),7-Day PAR Level (ml),Closing Balance (ml),Recommended Order (ml)
+Anderson's Bar,Beer,Budweiser,28.38,20.96,49.35,219.64,0.0,219.64
+Anderson's Bar,Beer,Coors,52.38,234.48,286.87,601.16,2146.02,0.0
+Anderson's Bar,Beer,Heineken,45.32,222.27,267.58,539.49,181.96,357.53
+Anderson's Bar,Beer,Miller,71.01,205.87,276.88,702.94,0.0,702.94
+Anderson's Bar,Rum,Bacardi,60.91,263.41,324.32,689.81,108.62,581.19
+Anderson's Bar,Rum,Captain Morgan,65.41,239.1,304.51,696.97,8383.2,0.0
+Anderson's Bar,Rum,Malibu,57.71,124.62,182.33,528.59,1568.59,0.0
+Anderson's Bar,Vodka,Absolut,72.02,219.86,291.88,724.0,0.0,724.0
+Anderson's Bar,Vodka,Grey Goose,67.06,206.66,273.72,676.09,0.0,676.09
+Anderson's Bar,Vodka,Smirnoff,69.22,320.81,390.03,805.38,8085.31,0.0
+Anderson's Bar,Whiskey,Jack Daniels,65.74,306.82,372.56,767.0,3995.06,0.0
+Anderson's Bar,Whiskey,Jameson,61.16,216.55,277.71,644.65,2688.37,0.0
+Anderson's Bar,Whiskey,Jim Beam,68.74,318.17,386.91,799.33,4518.52,0.0
+Anderson's Bar,Wine,Barefoot,67.02,209.84,276.86,679.0,7321.34,0.0
+Anderson's Bar,Wine,Sutter Home,62.67,291.57,354.24,730.26,6044.49,0.0
+Anderson's Bar,Wine,Yellow Tail,55.42,238.49,293.92,626.46,628.65,0.0
+Brown's Bar,Beer,Budweiser,64.14,215.75,279.89,664.73,0.0,664.73
+Brown's Bar,Beer,Coors,79.98,359.22,439.19,919.07,361.53,557.54
+Brown's Bar,Beer,Heineken,59.36,211.89,271.26,627.44,1770.22,0.0
+Brown's Bar,Beer,Miller,87.19,96.51,183.7,706.84,1298.84,0.0
+Brown's Bar,Rum,Bacardi,66.99,214.82,281.81,683.73,6088.51,0.0
+Brown's Bar,Rum,Captain Morgan,57.87,141.55,199.41,546.62,1663.43,0.0
+Brown's Bar,Rum,Malibu,64.5,278.93,343.43,730.45,0.0,730.45
+Brown's Bar,Vodka,Absolut,72.81,148.27,221.08,657.91,2843.64,0.0
+Brown's Bar,Vodka,Grey Goose,80.5,347.23,427.73,910.76,0.0,910.76
+Brown's Bar,Vodka,Smirnoff,70.82,236.59,307.41,732.31,0.0,732.31
+Brown's Bar,Whiskey,Jack Daniels,33.19,163.64,196.83,395.99,440.65,0.0
+Brown's Bar,Whiskey,Jameson,59.95,314.99,374.94,734.65,6474.53,0.0
+Brown's Bar,Whiskey,Jim Beam,70.26,305.61,375.87,797.45,722.29,75.16
+Brown's Bar,Wine,Barefoot,73.39,257.04,330.43,770.8,8542.65,0.0
+Brown's Bar,Wine,Sutter Home,64.48,161.27,225.75,612.62,3763.86,0.0
+Brown's Bar,Wine,Yellow Tail,81.05,329.71,410.76,897.07,0.0,897.07
+Johnson's Bar,Beer,Budweiser,58.49,217.38,275.87,626.8,4938.34,0.0
+Johnson's Bar,Beer,Coors,51.29,245.61,296.9,604.64,3671.96,0.0
+Johnson's Bar,Beer,Heineken,55.27,264.77,320.04,651.66,5286.16,0.0
+Johnson's Bar,Beer,Miller,56.39,256.32,312.71,651.06,0.0,651.06
+Johnson's Bar,Rum,Bacardi,65.83,234.57,300.39,695.35,875.28,0.0
+Johnson's Bar,Rum,Captain Morgan,65.85,239.53,305.38,700.47,1405.82,0.0
+Johnson's Bar,Rum,Malibu,65.39,279.7,345.08,737.41,2965.47,0.0
+Johnson's Bar,Vodka,Absolut,68.65,247.75,316.4,728.29,4996.77,0.0
+Johnson's Bar,Vodka,Grey Goose,71.73,312.38,384.12,814.52,4141.25,0.0
+Johnson's Bar,Vodka,Smirnoff,68.46,202.42,270.88,681.62,1046.11,0.0
+Johnson's Bar,Whiskey,Jack Daniels,60.93,246.87,307.8,673.36,3640.2,0.0
+Johnson's Bar,Whiskey,Jameson,55.7,207.41,263.11,597.32,0.0,597.32
+Johnson's Bar,Whiskey,Jim Beam,65.13,258.45,323.58,714.34,5554.79,0.0
+Johnson's Bar,Wine,Barefoot,67.74,156.45,224.18,630.59,5439.06,0.0
+Johnson's Bar,Wine,Sutter Home,59.49,257.51,317.0,673.93,3951.47,0.0
+Johnson's Bar,Wine,Yellow Tail,62.88,223.82,286.7,663.96,0.0,663.96
+Smith's Bar,Beer,Budweiser,62.75,219.13,281.88,658.4,3756.05,0.0
+Smith's Bar,Beer,Coors,41.25,189.01,230.26,477.74,2058.18,0.0
+Smith's Bar,Beer,Heineken,52.39,258.26,310.64,624.97,391.35,233.62
+Smith's Bar,Beer,Miller,64.2,195.74,259.94,645.15,301.48,343.67
+Smith's Bar,Rum,Bacardi,66.57,229.92,296.49,695.88,281.0,414.88
+Smith's Bar,Rum,Captain Morgan,70.53,178.14,248.68,671.88,1022.31,0.0
+Smith's Bar,Rum,Malibu,73.14,241.99,315.14,753.99,336.3,417.69
+Smith's Bar,Vodka,Absolut,69.08,228.02,297.1,711.58,4225.48,0.0
+Smith's Bar,Vodka,Grey Goose,72.71,283.73,356.43,792.67,3361.2,0.0
+Smith's Bar,Vodka,Smirnoff,65.87,257.97,323.84,719.06,1287.96,0.0
+Smith's Bar,Whiskey,Jack Daniels,59.89,198.71,258.6,617.94,998.4,0.0
+Smith's Bar,Whiskey,Jameson,59.61,260.43,320.04,677.71,5863.51,0.0
+Smith's Bar,Whiskey,Jim Beam,69.75,212.21,281.96,700.47,5605.13,0.0
+Smith's Bar,Wine,Barefoot,60.9,238.23,299.13,664.52,2094.14,0.0
+Smith's Bar,Wine,Sutter Home,61.05,268.21,329.26,695.55,6641.94,0.0
+Smith's Bar,Wine,Yellow Tail,66.11,289.05,355.16,751.84,5329.32,0.0
+Taylor's Bar,Beer,Budweiser,83.04,185.54,268.58,766.84,1641.29,0.0
+Taylor's Bar,Beer,Coors,40.99,168.48,209.47,455.4,8367.55,0.0
+Taylor's Bar,Beer,Heineken,41.79,152.21,194.0,444.74,8657.85,0.0
+Taylor's Bar,Beer,Miller,51.06,221.62,272.68,579.07,0.0,579.07
+Taylor's Bar,Rum,Bacardi,45.95,165.81,211.76,487.43,693.77,0.0
+Taylor's Bar,Rum,Captain Morgan,69.22,268.52,337.74,753.09,7385.19,0.0
+Taylor's Bar,Rum,Malibu,70.24,247.36,317.6,739.03,1806.52,0.0
+Taylor's Bar,Vodka,Absolut,64.36,253.59,317.95,704.1,1353.89,0.0
+Taylor's Bar,Vodka,Grey Goose,78.01,273.98,351.99,820.05,3085.31,0.0
+Taylor's Bar,Vodka,Smirnoff,60.42,307.65,368.07,730.59,2705.53,0.0
+Taylor's Bar,Whiskey,Jack Daniels,54.76,229.85,284.61,613.17,3067.89,0.0
+Taylor's Bar,Whiskey,Jameson,63.18,284.23,347.4,726.47,1546.81,0.0
+Taylor's Bar,Whiskey,Jim Beam,74.59,327.52,402.11,849.67,2195.87,0.0
+Taylor's Bar,Wine,Barefoot,68.73,255.4,324.13,736.5,10850.79,0.0
+Taylor's Bar,Wine,Sutter Home,64.98,316.4,381.38,771.24,0.0,771.24
+Taylor's Bar,Wine,Yellow Tail,37.62,200.31,237.92,463.61,1487.16,0.0
+Thomas's Bar,Beer,Budweiser,56.57,221.77,278.35,617.77,3436.72,0.0
+Thomas's Bar,Beer,Coors,48.26,195.62,243.88,533.43,2314.81,0.0
+Thomas's Bar,Beer,Heineken,47.4,162.89,210.28,494.65,146.87,347.78
+Thomas's Bar,Beer,Miller,67.5,235.1,302.61,707.63,1734.63,0.0
+Thomas's Bar,Rum,Bacardi,64.47,303.97,368.44,755.25,2401.21,0.0
+Thomas's Bar,Rum,Captain Morgan,65.67,247.59,313.26,707.26,5400.49,0.0
+Thomas's Bar,Rum,Malibu,66.12,183.29,249.41,646.12,4622.11,0.0
+Thomas's Bar,Vodka,Absolut,65.5,172.61,238.11,631.09,2296.43,0.0
+Thomas's Bar,Vodka,Grey Goose,71.01,292.49,363.49,789.53,4810.55,0.0
+Thomas's Bar,Vodka,Smirnoff,66.6,287.66,354.26,753.88,4758.09,0.0
+Thomas's Bar,Whiskey,Jack Daniels,60.59,215.9,276.49,640.01,6263.56,0.0
+Thomas's Bar,Whiskey,Jameson,17.86,125.49,143.36,250.54,871.56,0.0
+Thomas's Bar,Whiskey,Jim Beam,67.81,200.31,268.12,674.98,1809.68,0.0
+Thomas's Bar,Wine,Barefoot,62.29,231.38,293.68,667.43,668.19,0.0
+Thomas's Bar,Wine,Sutter Home,64.43,188.09,252.52,639.1,933.19,0.0
+Thomas's Bar,Wine,Yellow Tail,66.6,297.48,364.08,763.67,2389.47,0.0
